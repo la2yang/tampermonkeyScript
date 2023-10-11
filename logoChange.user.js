@@ -1,19 +1,19 @@
 // ==UserScript==
 // @name         Logo Changer
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Change logo and title of the website
 // @author       You
 // @match        https://www.mindskip.net:7002
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// @downloadURL  https://github.com/la2yang/tampermonkeyScript/blob/main/logoChange.user.js
-// @updateURL    https://github.com/la2yang/tampermonkeyScript/blob/main/logoChange.user.js
+// @downloadURL  https://github.com/la2yang/tampermonkeyScript/raw/main/logoChange.user.js
+// @updateURL    https://github.com/la2yang/tampermonkeyScript/raw/main/logoChange.user.js
 // @license MIT
 // ==/UserScript==
 
 ;(function () {
-  // tests
+  // test3
   setTimeout(() => {
     const imageUrl =
       'https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png'
