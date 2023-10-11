@@ -7,8 +7,8 @@
 // @match        https://www.mindskip.net:7002
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// @downloadURL  https://git.lingman.tech:8888/zhangguiyang/tampermonkeyscript/-/blob/main/logoChange.user.js
-// @updateURL    https://git.lingman.tech:8888/zhangguiyang/tampermonkeyscript/-/blob/main/logoChange.user.js
+// @downloadURL  https://github.com/la2yang/tampermonkeyScript/blob/main/logoChange.user.js
+// @updateURL    https://github.com/la2yang/tampermonkeyScript/blob/main/logoChange.user.js
 // @license MIT
 // ==/UserScript==
 
