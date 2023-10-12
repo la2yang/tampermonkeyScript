@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Logo Changer
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Change logo and title of the website
 // @author       You
 // @match        https://www.mindskip.net:7002
@@ -13,7 +13,7 @@
 // ==/UserScript==
 
 ;(function () {
-  // test3
+  // test4
   setTimeout(() => {
     const imageUrl =
       'https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png'
