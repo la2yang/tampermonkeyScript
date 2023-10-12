@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Logo Changer
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      0.7
 // @description  Change logo and title of the website
 // @author       You
 // @match        https://www.mindskip.net:7002
